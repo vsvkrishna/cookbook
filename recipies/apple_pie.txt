@@ -6,3 +6,4 @@ sugar
 apples
 1 tbsp cinnamon
 eggs
+salt
